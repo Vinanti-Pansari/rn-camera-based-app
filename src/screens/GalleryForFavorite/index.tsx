@@ -31,7 +31,7 @@ const FavoriteGallery = () => {
                   : titleType.LANDSCAP
               }
               base64Image={data}
-              isFav={isFav}
+              isFav={true}
             />
           );
         }}
