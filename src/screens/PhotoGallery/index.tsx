@@ -117,13 +117,16 @@ const PhotoGallery = (route: any) => {
    * @param item Updated redux photo data with respect to updated flag
    */
   const updateExistingPhotoArray = (item: any) => {
+    console.log('photosDataphotosDataphotosData', photosData);
     let clonedPhotoArray = JSON.parse(JSON.stringify(photosData));
     clonedPhotoArray.map((data: any) => {
-      let photoIndex = data.photos.findIndex(
-        obj => (obj.filename = item.filename),
-      );
-      if (photoIndex !== -1) {
-        data.photos[photoIndex].isFav = true;
+      if (data.title === key) {
+        let photoIndex = data.photos.findIndex(
+          obj => (obj.filename = item.filename),
+        );
+        if (photoIndex !== -1) {
+          data.photos[photoIndex].isFav = true;
+        }
       }
     });
     dispatch(updateImageIntoPhotoArray(clonedPhotoArray));
@@ -144,6 +147,7 @@ const PhotoGallery = (route: any) => {
             item: {data, isFav},
             index,
           } = item;
+          console.log('itemitemitemitemitemitemitemitemitem', item);
           return (
             <ImageView
               toggleFav={() => toggleFav(item.item, index)}
