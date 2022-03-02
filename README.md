@@ -13,3 +13,13 @@ cd in to repository folder
 
 # Please check out this link where I have uploaded the app running simulator video
 - https://drive.google.com/file/d/1XwWgHHH-Hk7P16BuOi2I0qv8FwwQ5IEl/view?usp=sharing
+
+OR
+
+
+
+
+https://user-images.githubusercontent.com/54045800/156357189-e67eaf47-e16d-475d-b14f-c4291681b8cd.mp4
+
+
+
