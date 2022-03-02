@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
+<svg
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://web.resource.org/cc/"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    id="svg53"
+    viewBox="0 0 437.5 437.5"
+    version="1.0"
+    y="0"
+    x="0"
+  >
+  <defs
+      id="defs55"
+    >
+    <linearGradient
+        id="linearGradient841"
+        y2=".5625"
+        y1=".18751"
+        x2=".78788"
+        x1=".29437"
+      >
+      <stop
+          id="stop839"
+          style="stop-color:#000000;stop-opacity:.6667"
+          offset="0"
+      />
+      <stop
+          id="stop840"
+          style="stop-color:#003a00;stop-opacity:.1176"
+          offset="1"
+      />
+    </linearGradient
+    >
+    <linearGradient
+        id="linearGradient882"
+        y2=".76562"
+        y1="0.25"
+        x2=".57364"
+        x1=".24806"
+      >
+      <stop
+          id="stop884"
+          style="stop-color:#def200"
+          offset="0"
+      />
+      <stop
+          id="stop885"
+          style="stop-color:#92c705"
+          offset="1"
+      />
+    </linearGradient
+    >
+    <linearGradient
+        id="linearGradient886"
+        y2="-1.078e-9"
+        y1="-1.078e-9"
+        x1="-1.2699e-8"
+      >
+      <stop
+          id="stop888"
+          style="stop-color:#004f00"
+          offset="0"
+      />
+      <stop
+          id="stop889"
+          style="stop-color:#92c705"
+          offset="1"
+      />
+    </linearGradient
+    >
+  </defs
+  >
+  <path
+      id="path609"
+      style="fill-rule:evenodd;fill:url(#linearGradient841)"
+      d="m157.05 418.82c8.6 5.14 113.11 9.68 133.52 13.85 14.85-14.18 28.58-30.41 43.57-44.63-37.57-31.12 89.72-75.98 96.98-87.72 0-12.97 1.92-38.3-20.38-33.86-71.41 33.96-224.52 130.15-253.69 152.36z"
+  />
+  <path
+      id="path585"
+      style="fill-opacity:0"
+      d="m77.53 131.3l0.718 163.36 227.83-0.95-0.72-163.36-227.83 0.95z"
+  />
+  <path
+      id="path164"
+      style="stroke-linejoin:bevel;fill-rule:evenodd;stroke:#004d00;stroke-width:10.866;fill:url(#linearGradient886)"
+      d="m14.051 173.74c92.409-12.57 262.64-158.98 269.42-160.72 8.05 0.421 91.39 215.79 124.84 249.84-29.27 18.04-194.36 130.3-252.7 151.96-78.509-80.95-151.91-235.01-141.56-241.08z"
+  />
+  <path
+      id="path163"
+      style="stroke-linejoin:bevel;fill-rule:evenodd;stroke:#004300;stroke-width:10.866;fill:url(#linearGradient882)"
+      d="m158.67 414.31c-3.1-42.17-5.69-167.77-32.23-216.12-0.21-6.16 95.57-68.3 97.82-66.47 3.08 0.03 9.07 61.93 5.96 70.94 3.16 5.39 115.3-48.99 187.46-116.39 10.97-2.606 7.24 165.9-6.68 175.73-17.15 9.3-229.47 149.73-252.33 152.31z"
+  />
+  <path
+      id="path633"
+      style="stroke-linejoin:bevel;stroke:#900000;stroke-width:37.5;fill:none"
+      d="m34.145 334.5c1.246-26.39-1.196-235.14 1.073-252.27 5.276-11.834 15.411-16.487 21.709-19.472 62.133 0.116 222.42-1.202 260.66-1.202 5.39 4.136 11.73 8.732 18.25 15.508 0.62 26.896-3.28 217.75-1.92 258.48-6.4 11.47-10.26 16.66-19.55 21.74-38.6-0.15-232.57 1.64-259.83 1-7.727-6.2-12.911-12.3-20.395-23.78z"
+  />
+  <path
+      id="path634"
+      style="stroke-linejoin:bevel;fill-rule:evenodd;fill:#efeded;stroke-width:13.442"
+      d="m32.738 84.918c1.246 26.392-2.011 107.15-1.74 124.25 0.21 14.65 30.478 6.03 42.869 6.27 1.689-18-0.454-74.53 1.049-90.36 31.084 5.04 208.15 1.72 233.82 0.48 0.34 22.68 1.83 75.28 0.12 89.99 17.12-0.94 15.5 4.71 22.76-2.61 0.62-26.9-0.47-88.33 0.89-129.06-6.4-11.469-10.25-16.655-19.55-21.743-38.6 0.156-232.57-1.632-259.82-0.999-7.734 6.204-12.918 12.305-20.402 23.78z"
+  />
+  <path
+      id="path632"
+      style="stroke-linejoin:bevel;fill-rule:evenodd;fill:#efeded;stroke-width:13.442"
+      d="m34.145 334.5c1.246-26.39-2.011-107.15-1.74-124.25 0.21-14.65 30.478-6.03 42.869-6.27 1.689 18 3.766 73.12 5.27 88.96 24.056 3.39 201.12-0.32 226.79 0.92 0.35-22.68 1.83-76.69 0.13-91.39 17.11 0.93 25.35 2.32 26.98 4.02 0.62 26.89-1.88 88.32-0.52 129.05-6.4 11.47-10.26 16.66-19.55 21.74-38.6-0.15-232.57 1.64-259.83 1-7.727-6.2-12.911-12.3-20.395-23.78z"
+  />
+  <path
+      id="path576"
+      style="stroke-linejoin:bevel;stroke:#e3ff00;stroke-width:13.442;fill:none"
+      d="m34.145 334.5c1.246-26.39-1.196-235.14 1.073-252.27 5.276-11.834 15.411-16.487 21.709-19.472 62.133 0.116 222.42-1.202 260.66-1.202 5.39 4.136 11.73 8.732 18.25 15.508 0.62 26.896-3.28 217.75-1.92 258.48-6.4 11.47-10.26 16.66-19.55 21.74-38.6-0.15-232.57 1.64-259.83 1-7.727-6.2-12.911-12.3-20.395-23.78z"
+  />
+  <path
+      id="path578"
+      style="fill-rule:evenodd;fill:#ffffff"
+      d="m49.176 341.74l4.295-244c0 0.002 0 8.27 1.073-2.066 1.074-10.339 17.179-14.474 17.179-14.474l195.41-10.339s-199.7-2.068-207.22 0c-7.513 2.068-16.102 7.237-17.176 15.508s0 247.1 0 247.1l6.442 8.27z"
+  />
+  <path
+      id="path579"
+      style="fill-rule:evenodd;fill:#e387a9"
+      d="m322.48 72.216l-4.29 251.99s0-8.27-1.08 2.07c-1.07 10.34-17.17 14.47-17.17 14.47l-195.41 10.34s199.7 2.07 207.22 0c7.51-2.07 16.1-7.24 17.17-15.51 1.08-8.27-1.01-244.1 0-255.09l-6.44-8.274z"
+  />
+  <path
+      id="path586"
+      style="fill-rule:evenodd;fill:#bdfffd;fill-opacity:.8316"
+      d="m73.559 126.76v81.96h233.06v-81.96h-233.06z"
+  />
+  <path
+      id="path577"
+      style="stroke:#005600;stroke-width:6.3395;fill:none"
+      d="m74.664 299.1h236.25l-2.1-172.48"
+  />
+  <path
+      id="path593"
+      style="stroke-linejoin:bevel;stroke-opacity:.5561;fill-rule:evenodd;fill-opacity:.2296;stroke:#e46900;stroke-width:6.25;fill:#ffff80"
+      d="m248.61 202.72c4.07 0 5.09-6 17.3-7s35.62 2 38.67 8 0 88.95 0 88.95l-226.95 1s166.91-26.99 159.78-39.98c-7.12-12.99-31.55-22.99-28.49-28.98 3.05-6 29.51-16.99 39.69-21.99z"
+  />
+  <path
+      id="path581"
+      style="stroke-linejoin:bevel;stroke-opacity:.6837;fill-rule:evenodd;fill-opacity:.4286;stroke:#0000d4;stroke-width:4.4808;fill:#649eff"
+      d="m77.961 209.57c2.879-1.42 159.76-1.42 159.76-1.42s-50.2 12.14-4.14 36.17c46.05 24.03-155.62 48.64-155.62 48.64l0.001-83.39z"
+  />
+  <path
+      id="path580"
+      style="stroke:#0000c3;stroke-width:6.25;fill:none"
+      d="m308.63 128.62h-233.97l2.034 171.7"
+  />
+  <path
+      id="path590"
+      style="stroke-opacity:.6429;fill-rule:evenodd;fill-opacity:.6582;stroke:#ff0000;stroke-width:4.4808;fill:#ffff80"
+      d="m139.85 158.68c0 7.81-6.77 14.14-15.11 14.14-8.35 0-15.11-6.33-15.11-14.14 0-7.8 6.76-14.13 15.11-14.13 8.34 0 15.11 6.33 15.11 14.13z"
+  />
+  <path
+      id="path591"
+      style="fill-rule:evenodd;fill:#ecf480;fill-opacity:.602"
+      d="m103.87 209.57c5.76 0 18.71 7.06 14.39 8.48-4.32 1.41-20.149 5.65-11.51 8.48 8.63 2.83 23.03 2.83 15.83 7.07s-14.39 8.48-10.08 9.89c4.32 1.41 12.96 9.89 20.15 5.65 7.2-4.24 5.76-9.89 0-12.72-5.75-2.82-18.71-4.24-11.51-8.48s25.91 0 24.47-5.65c-1.44-5.66-10.08-2.83-17.27-4.24-7.2-1.42 30.22-5.66 21.59-7.07-8.64-1.41-43.18 0-46.06-1.41z"
+  />
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >folder pictures</dc:title
+        >
+        <dc:date
+          >2011-01-21T16:58:39</dc:date
+        >
+        <dc:description
+          >Originally uploaded by Jose Hevia for OCAL 0.18</dc:description
+        >
+        <dc:source
+          >https://openclipart.org/detail/107431/folder-pictures-by-anonymous</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >Anonymous</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >fix</rdf:li
+            >
+            <rdf:li
+              >keyword</rdf:li
+            >
+            <rdf:li
+              >librarians</rdf:li
+            >
+            <rdf:li
+              >tag</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>
